@@ -22,9 +22,14 @@
       "favicon": "./assets/images/applogo.png",
       "backgroundColor": "#009387"
     },
-
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3a2eb474-95d7-4edc-9c67-f0a4b744cd8d"
+      }
+    },
+    "owner": "user_name123"
   }
 }
